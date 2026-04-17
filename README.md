@@ -69,9 +69,9 @@ Retail-Sales-Forecasting/
 
 * Synthetic dataset generated using:
 
-  * Trend 📈
-  * Seasonality 🔁
-  * Random noise 🎲
+  * Trend 
+  * Seasonality 
+  * Random noise 
 
 This simulates real-world retail sales behavior.
 
